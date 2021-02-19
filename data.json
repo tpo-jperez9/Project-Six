@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://tpo-jperez9.github.io/tpo-jperez9-Project-One/",
             "github_link": "https://github.com/tpo-jperez9/tpo-jperez9-Project-One.git",
-            "image_urls": ["/static/images/Quote1.png", "/static/images/Quote2.png"]
+            "image_urls": ["/static/images/Quote1.png","/static/images/Quote2.png"]
         },
         {
            "id": 1,
@@ -35,7 +35,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://tpo-jperez9.github.io/tpo-jperez9-Project-Four/",
             "github_link": "https://github.com/tpo-jperez9/tpo-jperez9-Project-Four.git",
-            "image_urls": ["/static/images/Titleofgame.png", "phrase1.png", "Winner.png"]
+            "image_urls": ["/static/images/Titleofgame.png", "/static/images/phrase1.png", "/static/images/Winner.png"]
         },
         {
             "id": 4,
@@ -44,7 +44,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://tpo-jperez9.github.io/Project-Five/",
             "github_link": "https://github.com/tpo-jperez9/Project-Five.git",
-            "image_urls": ["/static/images/APIstudentdirectory.png", "Interactivemodal.png"]
+            "image_urls": ["/static/images/APIstudentdirectory.png", "/static/images/Interactivemodal.png"]
         }
     ]
 }
