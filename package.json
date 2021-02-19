@@ -2,7 +2,7 @@
   "name": "tpo-jperez9-Project-Six",
   "version": "1.0.0",
   "description": "Static Node.JS and Express Site",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

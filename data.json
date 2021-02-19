@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A random quote generator that returns an insightful quote at each user request.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://tpo-jperez9.github.io/tpo-jperez9-Project-One/",
+            "github_link": "https://github.com/tpo-jperez9/tpo-jperez9-Project-One.git",
+            "image_urls": ["/static/images/Quote1.png", "/static/images/Quote2.png"]
+        },
+        {
+           "id": 1,
+           "project_name": "Data Pagination & Filtering",
+           "description": "Dynamically displays a list of 42 students of mulitple pages by utilizing pagination.",
+           "technologies": ["HTML", "CSS", "JavaScript"], 
+           "live_link": " https://tpo-jperez9.github.io/tpo-jperez9-Project-two/",
+           "github_link": "https://github.com/tpo-jperez9/tpo-jperez9-Project-two.git",
+           "image_urls": ["/static/images/pic1.png", "/static/images/pic2buttons.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive JS Form",
+            "description": "A customized form with added conditional behavior and user interactivity through form validation and assisting error messages.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://tpo-jperez9.github.io/Project-Three/",
+            "github_link": "https://github.com/tpo-jperez9/Project-Three.git",
+            "image_urls": ["/static/images/Form2.png", "/static/images/stackconferenceform.png"]
+            
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Gameshow App",
+            "description": "A browser-based phrase guessing game. Through the use of Javascript and object-oriented programming, the user will try to guess a randomly hidden phrase on the screen through an interactive on screen keyboard or the users physical keyboard.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://tpo-jperez9.github.io/tpo-jperez9-Project-Four/",
+            "github_link": "https://github.com/tpo-jperez9/tpo-jperez9-Project-Four.git",
+            "image_urls": ["/static/images/Titleofgame.png", "phrase1.png", "Winner.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Startup Employee Directory",
+            "description": "Using a random user generator API, this app will list 12 randomly selected employees and dynamically list their information on the screen. The user can click the employee directory cards to see additional employee information.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://tpo-jperez9.github.io/Project-Five/",
+            "github_link": "https://github.com/tpo-jperez9/Project-Five.git",
+            "image_urls": ["/static/images/APIstudentdirectory.png", "Interactivemodal.png"]
+        }
+    ]
+}
